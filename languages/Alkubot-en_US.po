@@ -1,0 +1,65 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Alkubot v1.0.0\n"
+"POT-Creation-Date: 2019-08-11 13:37+0300\n"
+"PO-Revision-Date: 2021-01-05 21:38+0200\n"
+"Language-Team: Alkubot\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# Admin
+msgid "Alkubot beállítása"
+msgstr "Alkubot setup"
+
+msgid "Azonosító"
+msgstr "Token"
+
+msgid "Még nincs fiókod?"
+msgstr "Can't find your Token?"
+
+msgid "Ide kattintva"
+msgstr "Click here"
+
+msgid "tudsz regisztrálni."
+msgstr " and sign up now to get one."
+
+msgid "Problémába ütköztél?"
+msgstr "Need help?"
+
+msgid "Vedd fel velünk a"
+msgstr "Tell us your problem on"
+
+msgid "kapcsolatot"
+msgstr "contact page"
+
+msgid "SIGNUP_LINK"
+msgstr "https://app.alkubot.com/signup"
+
+msgid "CONTACT_LINK"
+msgstr "https://www.alkubot.com/contact"
+
+msgid "Sikeres módosítás!"
+msgstr "Your webshop is successfully connected with Alkubot. To continue the setup switch back to the Alkubot website."
+
+msgid "Sikertelen módosítás!"
+msgstr "Webshop activation failed. Please contact us for help."
+
+msgid "Ablak bezárása"
+msgstr "Okay"
+
+msgid "Mentés"
+msgstr "Save"
+
+msgid "Frissítem"
+msgstr "Update now"
+
+msgid "Értesítés elrejtése"
+msgstr "Hide notification"
+

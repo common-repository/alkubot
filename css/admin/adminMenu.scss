@@ -1,0 +1,16 @@
+#toplevel_page_alkubot {
+  img {
+    width: 70%;
+    padding-top: 7px !important;
+    opacity: 1 !important;
+  }
+  &:hover {
+    img {
+    }
+  }
+  &.wp-has-current-submenu {
+    img {
+      filter: brightness(2);
+    }
+  }
+}

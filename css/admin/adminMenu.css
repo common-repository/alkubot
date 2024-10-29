@@ -1,0 +1,10 @@
+#toplevel_page_alkubot img {
+  width: 70%;
+  padding-top: 7px !important;
+  opacity: 1 !important;
+}
+#toplevel_page_alkubot.wp-has-current-submenu img {
+  filter: brightness(2);
+}
+
+/*# sourceMappingURL=adminMenu.css.map */

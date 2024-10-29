@@ -1,0 +1,47 @@
+.alkubot-btn {
+  border-radius: 0;
+  padding: 10px;
+  margin: 20px;
+  min-width: 180px;
+  font-size: 17px;
+  font-weight: 700;
+  background: #0041cd;
+  color: #FFFFFF;
+  border-color: #007bff;
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  border-top-color: transparent;
+  border-right-color: transparent;
+  border-bottom-color: transparent;
+  border-left-color: transparent;
+  cursor: pointer;
+  line-height: 1.5;
+
+  &.alkubot-notification-btn {
+    margin: 10px 5px 5px;
+    padding: 2px 5px;
+    min-width: 50px;
+    font-size: 14px;
+  }
+  &.alkubot-notification-dismiss-btn {
+    margin: 10px 5px 5px;
+    padding: 2px 5px;
+    min-width: 50px;
+    background: #99f;
+    font-size: 12px;
+    &:hover,
+    &:focus {
+      background: #cd5656;
+    }
+  }
+
+  &:hover,
+  &:focus {
+    background: #007bff;
+  }
+}
